@@ -42,8 +42,8 @@
     "screenshot": "screenshot.png",
     "robotsText": "https://enpuzzlement.netlify.com/sitemap.xml\n\nUser-agent: *\nDisallow: \n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "https://enpuzzlement.netlify.com/",
-    "sitemapSwitcherAuto": "",
+    "siteUrl": "http://enpuzzlementstaff.netlify.com",
+    "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "PWA": {
       "enabled": true,
