@@ -1,0 +1,5 @@
+https://enpuzzlement.netlify.com/sitemap.xml
+
+User-agent: *
+Disallow: 
+
