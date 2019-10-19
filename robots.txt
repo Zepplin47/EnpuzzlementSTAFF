@@ -1,5 +1,2 @@
-https://enpuzzlement.netlify.com/sitemap.xml
-
 User-agent: *
-Disallow: 
-
+Disallow: /cgi-bin
